@@ -28,7 +28,3 @@ O **Verifica Idade** é um projeto acadêmico simples desenvolvido em Java para 
 
 Este projeto foi desenvolvido como uma atividade acadêmica e é livre para uso e modificação.
 
----
-
-Se precisar de mais alguma informação ou melhorias, me avise! 😊
-
